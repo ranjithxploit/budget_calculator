@@ -10,3 +10,5 @@ Please run this file in Visual Studio Code with recommended extensions enablee(j
 Once you run the file, it will ask for the extensions to be installed automatically.
 
 Thank You!
+
+If any queries, please contact me at ranjithxploit@gmail.com
